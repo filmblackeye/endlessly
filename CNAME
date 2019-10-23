@@ -1,1 +1,3 @@
-endless.io
+yarn add react-native-elements
+# or with npm
+npm install react-native-elements
